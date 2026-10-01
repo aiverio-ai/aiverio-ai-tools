@@ -6,6 +6,19 @@ Aiverio helps users discover, compare, and understand AI tools through practical
 
 https://aiverio.com/tools/
 
+## Featured AI Tool Pages
+
+- https://aiverio.com/tools/ideogram/
+- https://aiverio.com/tools/deepseek/
+- https://aiverio.com/tools/bardeen/
+- https://aiverio.com/tools/writesonic/
+- https://aiverio.com/ai-tools/heygen/
+- https://aiverio.com/ai-tools/lindy/
+- https://aiverio.com/ai-tools/fireflies-ai/
+- https://aiverio.com/ai-tools/tldv/
+- https://aiverio.com/ai-tools/grammarly/
+- https://aiverio.com/ai-tools/runway/
+
 ## Featured AI Comparisons
 
 - https://aiverio.com/chatgpt-vs-claude-2026/
